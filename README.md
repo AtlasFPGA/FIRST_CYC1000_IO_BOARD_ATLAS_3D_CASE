@@ -13,6 +13,8 @@ The carrier board developed by the group is very versatile and can be used with 
 The case provided in this repository was created for a Cyc1000 and a Sipeed Maix Bit mounted on an adapter PCB.
 
 
+![3D DESIGN](https://github.com/AtlasFPGA/FIRST_CYC1000_IO_BOARD_ATLAS_3D_CASE/blob/main/case1.png)
+
 
 Changing the design
 
@@ -25,6 +27,8 @@ First, it is necessary to rework the "Rear" piece. Try to remove the boolean ope
 Then you will need to modify the top cover, removing the boolean operation that makes the screen visible.
 Finally, you can remove the part that holds the screen (if you are not using one).
 Generate the STL files of the parts that you have modified.
+
+![3DCASE ASEMBLED WITH ATLAS I/O BOARD V2](https://github.com/AtlasFPGA/FIRST_CYC1000_IO_BOARD_ATLAS_3D_CASE/blob/main/printed_case.jpg)
 
 
 Printing
